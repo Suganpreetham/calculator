@@ -69,7 +69,7 @@ class _HomePageState extends State<HomePage> {
                 alignment: Alignment.bottomRight,
                 height: 255,
                 child: Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 20),
+                  padding: const EdgeInsets.symmetric(horizontal: 25),
                   child: TextField(
                     style: TextStyle(color: Colors.white,fontSize: 45),
                     textAlign: TextAlign.end,
